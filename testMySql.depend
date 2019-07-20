@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1563463502 source:d:\c++ test\testmysql\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+
+1476096933 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1476096946 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\mysql_com.h
+
+1476096972 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\mysql_time.h
+
+1476096983 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\mysql_version.h
+	<custom_conf.h>
+
+1476097123 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\typelib.h
+
+1476097168 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\my_list.h
+
+1476097177 c:\users\oshan\documents\mysqlc++\mysqlheaders\mysqlheaders\my_alloc.h
+
+1563469105 source:d:\c++ test\testmysql - copy\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
+1563628946 source:d:\c++ test\pman\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+	<mysql.h>
+
